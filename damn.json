@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "byte-club-provisionary-members",
+  "private_key_id": "653fdb75939a786ae71816798cdf3af7ef31d68b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrYbs03UxcjLFW\ncEccUThlbnw/PjTlcIiMmhdwsjyWV+lOC4hceZ4l+ZSE7lpSfFTpUwYkpkjDGity\neihj+x95QUqZ7J3EZh0n/0buIHv9VwJeixeO/QzQXiMXjJPhwRB4wX1amWYo4En7\nczPaVkwoBM2HdnFrK+pG6UF8C0ZuqrTj6KfcLSckHd2cB1tHoXymZckf9KH3cuBH\nsw0X5Tc5oJf+UbMhYCbhvHlGGJ4BDROE+TOhimNqnZkN/ev1q+RUAr61uuD2H3eO\nxkmyLBmcPNb7bq5GhlBFeB9G8LVpINp/bzfGKm4/9m1Kej+lQhgJYuo5Hi4afWvm\nwLxIP0ohAgMBAAECggEAC9eJVSvKMCyG8s9E4QLTsytUaa8YsWN6a/MYL4qBTG1V\n15vmywA0TbEJjCEUG9YveWsDmUCyjzI3UlLfVTLWIYDB10Tvc2sPrkkIIHTqKSUv\nKroEFLZzgWpS+zhhd4K2aqgKZPPSIhaG+VlXRrAaO9TcU46uY5aTOsPsHHAcm8Te\nq7OssVhOdCpceMEjFWM3bhHYXG4hK5SfAotnsuihMuBaTvq5UMLqMiMXbAWfc5gB\ndTLYgvHrycI0xeEkiN78da4dW2kIem5NiC9dQJUWMXKGy403Yw56SZs/YPdzBaSK\nB24VaklDsYVaK2JnGKUeTdipFkpMlthHZpN2143ZyQKBgQDvEulib+QJ9Uu6XYUk\naDoslADKVnEKlDNhMoq96Dme1SGAAmbeXsX61gNXUbA8K2HT1SKHdjf+tBWBNcvK\nIYkqcaCeFnD8ErjkmjhLwikzzk0D6rzdCLKSiaDbmq/NBES31JzekiZR59VG4E4j\nisQ9F1FEyaNXITz1wXqlhH9SAwKBgQC3g++Ib19O/rMq0wG296ZyZK2r0+NhHFLG\nP0jKS5+x4e7Buy+rqBB5O1dEPZ1CFdRj0mtHJZlVbBcoO+aPKTWrFJi5WoYHJ4jE\nSqLlOYd0npzYIEYx6ymGsHhkm5BNWASbvPkx28mcyTmcrvk0JkiMYRa0NzsuGqWp\np5C4umTsCwKBgQDdqKAgd3Nr1DV5PlpCriw5xqOQ9mJql4uns6+1cclyvVMJF7D+\nvco7zg9c9006DFLwj60rAW3bRmal3RXse/lsE9wClvX8kPNCaMaHXybKdJ0tY4fm\nO7ktalNtKNeUcz+vXX5wUfsbd6Jjy3ZHN9LIfYUJDRbXouadSN0I93cAtwKBgARD\nCiMPAxWgkKSj9dw78B+j+uyMpTEyKTH1cklQbEsDRjo1kKvZ4VgPar1o+Of5/c67\nqkYit2bmdbs3eOlGObrZZZqYYZh08JYubY4JQf4RWO8kAL1UCsjX/FPJ0RYavzCm\nuNrRkeMUQURERAFUCkdIUfCpf7RYZhSEkbXYjlN1AoGBAJ8J3YZ4C9ByHfHCDoZz\ngUGhPDywVdzpI2uqlDEVgoJbl7itPEoUKgRK1kz/DaMGZe90pDlaSq5ShckW1isN\nBJCHx64Ds+lK5XIdnw2st3Im0eekTR6M2PRLGCV4lAe+9oSDU7W8Fcww1A7rNGKa\n4wMIze9kQTtBoR0ti6qu13WM\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lwd8c@byte-club-provisionary-members.iam.gserviceaccount.com",
+  "client_id": "101573555802585340712",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lwd8c%40byte-club-provisionary-members.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
